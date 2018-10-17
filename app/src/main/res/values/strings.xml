@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="exibir_notificacao">Exibir Notificação</string>
+    <string name="title">Alerta</string>
+    <string name="sasada">Descrição explicando esse canal...</string>
+    <string name="dsadas">Meu canal de notificações</string>
+    <string name="ale">alertas</string>
+    <string name="dasdas">Seu download foi concluido!</string>
+</resources>
